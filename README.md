@@ -21,5 +21,3 @@ a System Administration and Networking project
  - [Nginx installation on Alpine Linux](https://wiki.alpinelinux.org/wiki/Nginx)
  - [Dockerfile reference](https://docs.docker.com/engine/reference/builder)
 
-## NB :
- - This project is not finished yet !!
