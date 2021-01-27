@@ -9,7 +9,7 @@ a System Administration and Networking project
 
 [Ft_services Subject](https://github.com/su-omb/ft_services/blob/main/ft_services.en.subject.pdf)
 
-<img src="https://github.com/su-omb/Cleaner_42/blob/master/screenshot.png" width="800" />
+<img src="https://github.com/su-omb/ft_services_42/blob/master/screenshot.png" width="800" />
 
 ## Some Useful Sources :
  - [You need to learn Kubernetes RIGHT NOW!!](https://www.youtube.com/watch?v=7bA0gTroJjw)
