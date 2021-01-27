@@ -41,6 +41,7 @@ RUN echo -e "MA\nKH\nKHOURIBGA\n1337Ltd\nOCP\nOCP SA\nft_services@1337.ma\n" | o
 #copy the necessary files
 ADD ./srcs/nginx.conf /etc/nginx/nginx.conf
 ADD ./srcs/index.html /www/index.html
+ADD ./srcs/imgs /www/imgs
 ADD ./srcs/run.sh /usr/bin/run.sh
 #make it exucutable
 RUN chmod +x /usr/bin/run.sh
