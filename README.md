@@ -9,6 +9,8 @@ a System Administration and Networking project
 
 [Ft_services Subject](https://github.com/su-omb/ft_services/blob/main/ft_services.en.subject.pdf)
 
+## Sreenshot
+
 <img src="https://github.com/su-omb/ft_services_42/blob/master/screenshot.png" width="800" />
 
 ## Some Useful Sources :
