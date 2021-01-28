@@ -44,7 +44,6 @@ You will virtualize a network and do "clustering".
  - [Grafana CLI : change admin password](https://grafana.com/docs/grafana/latest/administration/cli/)
  - [How to install and configure VSFTPD](https://www.howtoforge.com/tutorial/how-to-install-and-configure-vsftpd/)
  - [How to configure vsftpd to work with passive mode](https://serverfault.com/questions/421161/how-to-configure-vsftpd-to-work-with-passive-mode)
- - [vsftpd conditional pasv_address (internal ip vs. external ip)](https://unix.stackexchange.com/questions/193136/vsftpd-conditional-pasv-address-internal-ip-vs-external-ip)
  - [Active vs Passive FTP - Understanding FTP Ports](https://www.youtube.com/watch?v=8X-DZUIZa94)
  - [Proxy vs. Reverse Proxy (Explained by Example)](https://www.youtube.com/watch?v=ozhe__GdWC8)
  - [Proxy vs reverse proxy vs load balancer](https://www.youtube.com/watch?v=MiqrArNSxSM)
