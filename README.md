@@ -47,4 +47,5 @@ You will virtualize a network and do "clustering".
  - [Active vs Passive FTP - Understanding FTP Ports](https://www.youtube.com/watch?v=8X-DZUIZa94)
  - [Proxy vs. Reverse Proxy (Explained by Example)](https://www.youtube.com/watch?v=ozhe__GdWC8)
  - [Proxy vs reverse proxy vs load balancer](https://www.youtube.com/watch?v=MiqrArNSxSM)
+ - [Understanding the HTTP 307 Temporary Redirect Status Code in Depth](https://kinsta.com/knowledgebase/307-redirect/)
 
