@@ -36,6 +36,7 @@ You will virtualize a network and do "clustering".
  - [There is mismatch between HTTPS indicated on the server and client](https://stackoverflow.com/questions/56655548/there-is-mismatch-between-https-indicated-on-the-server-and-client)
  - [Nginx reverse proxy to PHPMyAdmin returns 404](https://serverfault.com/questions/931849/nginx-reverse-proxy-to-phpmyadmin-returns-404)
  - [$cfg['PmaAbsoluteUri'] in phpMyAdmin configuration file](https://docs.phpmyadmin.net/en/latest/config.html#cfg_PmaAbsoluteUri)
+ - [Configuring MariaDB for Remote Client Access](https://mariadb.com/kb/en/configuring-mariadb-for-remote-client-access/)
  - [Configuring influxdb configuration file](https://docs.influxdata.com/influxdb/v1.8/administration/config/#using-the-configuration-file)
  - [Install Telegraf and Configure it for InfluxDB](https://www.youtube.com/watch?v=FrqeG-IajWM)
  - [Telegraf Config | Telegraf Documentation](https://docs.influxdata.com/telegraf/v1.17/introduction/installation/)
